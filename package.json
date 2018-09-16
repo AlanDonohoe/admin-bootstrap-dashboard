@@ -1,7 +1,7 @@
 {
-  "name": "Star-Admin-Free",
+  "name": "bootstrap-admin-dashboard-free",
   "version": "2.0.1",
-  "description": "",
+  "description": "Custom (webpack-friendly) version of StarAdmin-Free-Bootstrap-Admin-Template",
   "main": "index.html",
   "dependencies": {
     "bootstrap": "4.0.0",
